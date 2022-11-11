@@ -1,0 +1,69 @@
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+property entire place
+linetti-jersey linetti
+New Jersey
+4 230 2 apartment
+register host boyle
+Charles Boyle
+usa
+charles.boyle@gmail.com
+Register host pimento
+Adrian Pimento
+usa
+apimento@gmail.com
+property private room
+pimento-arlington pimento
+Arlington
+2 100
+0
+property private room
+boyle-florida boyle
+Miami
+2 160
+3
+swimming pool
+kitchen
+living room
+Register host santiago
+Amy Santiago
+usa
+amy.santiago@gmail.com
+properties santiago
+properties boyle
+properties linetti
+Register host raymond
+Raymond Holt
+usa
+rholt@hotmail.com
+Register guest diaz
+Rosa Diaz
+usa
+diaz@gmail.com
+property entire place
+raymond-house raymond
+New York
+4 320 2 apartment
+property private room
+cheddar-room raymond
+St. Petersburg
+2 90
+2
+garden
+kitchen
+property entire place
+cozner-house raymond
+Lisbon
+4 120 3 house
+users
+properties raymond
+properties pimento
+property entire place
+linetti-algarve linetti
+Albufeira
+4 130 2 cabin
+properties linetti
+users
+exit

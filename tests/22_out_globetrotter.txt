@@ -1,0 +1,75 @@
+User linetti was registered as host.
+User boyle was registered as host.
+User pimento was registered as host.
+User santiago was registered as host.
+User raymond was registered as host.
+Property boyle-miami was added to host boyle.
+Property boyle-boston was added to host boyle.
+Property boyle-alaska was added to host boyle.
+Property linetti-paris was added to host linetti.
+Property santiago-madrid was added to host santiago.
+Property linetti-porto was added to host linetti.
+Property pimento-miami was added to host pimento.
+Property raymond-new-york was added to host raymond.
+Property linetti-la was added to host linetti.
+Property santiago-florence was added to host santiago.
+Property linetti-algarve was added to host linetti.
+Property pimento-arlington was added to host pimento.
+No globe trotter.
+User peralta was registered as guest.
+User diaz was registered as guest.
+User hitchcock was registered as guest.
+User scully was registered as guest.
+Booking linetti-porto-1 was confirmed.
+Booking linetti-porto-1 was paid: 560.00
+Globe trotter hitchcock has visited 1 locations.
+Booking pimento-miami-1 was confirmed.
+Booking pimento-miami-1 was paid: 2160.00
+Globe trotter scully has visited 1 locations.
+Booking boyle-miami-1 was confirmed.
+Booking boyle-miami-1 was paid: 2880.00
+Globe trotter scully has visited 1 locations.
+Booking boyle-boston-1 was confirmed.
+Booking boyle-boston-1 was paid: 960.00
+Globe trotter hitchcock has visited 2 locations.
+Booking boyle-alaska-1 was confirmed.
+Booking boyle-alaska-1 was paid: 480.00
+Globe trotter scully has visited 2 locations.
+Booking raymond-new-york-1 was requested.
+Booking raymond-new-york-1 was confirmed.
+Booking raymond-new-york-1 was paid: 800.00
+Booking santiago-madrid-1 was requested.
+Booking santiago-madrid-1 was confirmed.
+Booking santiago-madrid-1 was paid: 252.00
+Globe trotter scully has visited 2 locations.
+Booking raymond-new-york-2 was requested.
+Globe trotter scully has visited 2 locations.
+Booking raymond-new-york-3 was requested.
+Globe trotter peralta has visited 2 locations.
+Booking boyle-alaska-2 was confirmed.
+Booking boyle-alaska-2 was paid: 480.00
+Globe trotter peralta has visited 2 locations.
+Booking pimento-miami-2 was requested.
+Booking pimento-miami-2 was confirmed.
+Booking pimento-miami-2 was paid: 1080.00
+Booking santiago-madrid-2 was requested.
+Booking santiago-madrid-2 was confirmed.
+Booking santiago-madrid-2 was paid: 168.00
+Globe trotter diaz has visited 3 locations.
+Guest diaz bookings: paid 1728.00 euros
+boyle-alaska-2: boyle-alaska; entire place; Alaska; 06-08-2021; 14-08-2021; 4; paid; 480.00
+pimento-miami-2: pimento-miami; entire place; Miami; 18-08-2021; 22-08-2021; 2; paid; 1080.00
+santiago-madrid-2: santiago-madrid; private room; Madrid; 25-08-2021; 27-08-2021; 2; paid; 168.00
+Guest peralta bookings: paid 1052.00 euros
+raymond-new-york-1: raymond-new-york; private room; New York; 19-06-2021; 27-06-2021; 1; paid; 800.00
+santiago-madrid-1: santiago-madrid; private room; Madrid; 01-07-2021; 04-07-2021; 3; paid; 252.00
+raymond-new-york-2: raymond-new-york; private room; New York; 13-07-2021; 14-07-2021; 1; requested; 0.00
+raymond-new-york-3: raymond-new-york; private room; New York; 23-07-2021; 24-07-2021; 1; requested; 0.00
+Guest scully bookings: paid 5520.00 euros
+pimento-miami-1: pimento-miami; entire place; Miami; 06-06-2021; 14-06-2021; 2; paid; 2160.00
+boyle-miami-1: boyle-miami; entire place; Miami; 17-06-2021; 26-06-2021; 2; paid; 2880.00
+boyle-alaska-1: boyle-alaska; entire place; Alaska; 06-07-2021; 14-07-2021; 4; paid; 480.00
+Guest hitchcock bookings: paid 1520.00 euros
+linetti-porto-1: linetti-porto; entire place; Porto; 28-05-2021; 05-06-2021; 2; paid; 560.00
+boyle-boston-1: boyle-boston; entire place; Boston; 06-06-2021; 14-06-2021; 2; paid; 960.00
+Bye!

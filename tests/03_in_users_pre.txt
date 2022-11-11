@@ -1,0 +1,27 @@
+users
+register guest peralta
+Jake Peralta
+usa
+jake@gmail.com
+register host peralta
+Jake Peralta Jr
+usa
+jakejr@gmail.com
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+Register guest linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+Register guest hitchcock
+Michael Hitchcock
+usa
+hitchcock@gmail.com
+register manager alice
+alice smith
+united kingdom
+alice@gmail.com
+users
+exit

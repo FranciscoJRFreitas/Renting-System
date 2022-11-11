@@ -1,0 +1,133 @@
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+register host boyle
+Charles Boyle
+usa
+charles.boyle@gmail.com
+Register host pimento
+Adrian Pimento
+usa
+apimento@gmail.com
+Register host santiago
+Amy Santiago
+usa
+amy.santiago@gmail.com
+Register host raymond
+Raymond Holt
+usa
+rholt@hotmail.com
+property entire place
+boyle-miami boyle
+Miami
+4 320 3 apartment
+property entire place
+boyle-boston boyle
+Boston
+3 120 2 apartment
+property entire place
+boyle-alaska boyle
+Alaska
+4 60 3 apartment
+property private room
+linetti-paris linetti
+Paris
+2 65
+0
+property private room
+santiago-madrid santiago
+Madrid
+3 84
+1
+kitchen
+property entire place
+linetti-porto linetti
+Porto
+3 70 2 apartment
+property entire place
+pimento-miami pimento
+Miami
+2 270 3 apartment
+property private room
+raymond-new-york raymond
+New York
+1 100
+0
+property entire place
+linetti-la linetti
+Los Angeles
+4 150 2 apartment
+property private room
+santiago-florence santiago
+Florence
+2 60
+1
+garden
+property entire place
+linetti-algarve linetti
+Albufeira
+4 130 2 cabin
+property private room
+pimento-arlington pimento
+Arlington
+2 100
+0
+globetrotter
+register guest peralta
+Jake Peralta
+usa
+jake@gmail.com
+Register guest diaz
+Rosa Diaz
+usa
+diaz@gmail.com
+Register guest hitchcock
+Michael Hitchcock
+usa
+hitchcock@gmail.com
+Register guest scully
+Norm Scully
+usa
+scully@gmail.com
+book hitchcock linetti-porto 28-05-2021 05-06-2021 2
+pay linetti-porto-1 hitchcock
+globetrotter
+book scully pimento-miami 06-06-2021 14-06-2021 2
+pay pimento-miami-1 scully
+globetrotter
+book scully boyle-miami 17-06-2021 26-06-2021 2
+pay boyle-miami-1 scully
+globetrotter
+book hitchcock boyle-boston 06-06-2021 14-06-2021 2
+pay boyle-boston-1 hitchcock
+globetrotter
+book scully boyle-alaska 06-07-2021 14-07-2021 4
+pay boyle-alaska-1 scully
+globetrotter
+book peralta raymond-new-york 19-06-2021 27-06-2021 1
+confirm raymond-new-york-1 raymond
+pay raymond-new-york-1 peralta
+book peralta santiago-madrid 01-07-2021 04-07-2021 3
+confirm santiago-madrid-1 santiago
+pay santiago-madrid-1 peralta
+globetrotter
+book peralta raymond-new-york 13-07-2021 14-07-2021 1
+globetrotter
+book peralta raymond-new-york 23-07-2021 24-07-2021 1
+globetrotter
+book diaz boyle-alaska 06-08-2021 14-08-2021 4
+pay boyle-alaska-2 diaz
+globetrotter
+book diaz pimento-miami 18-08-2021 22-08-2021 2
+confirm pimento-miami-2 pimento
+pay pimento-miami-2 diaz
+book diaz santiago-madrid 25-08-2021 27-08-2021 2
+confirm santiago-madrid-2 santiago
+pay santiago-madrid-2 diaz
+globetrotter
+guest diaz
+guest peralta
+guest scully
+guest hitchcock
+exit

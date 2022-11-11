@@ -1,0 +1,90 @@
+properties alice
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+register guest peralta
+Jake Peralta
+usa
+jake@gmail.com
+property entire place
+linetti-jersey1 linetti
+New Jersey
+2 100 1 apartment
+property entire place
+linetti-jersey2 linetti
+New Jersey
+2 100 1 apartment
+property entire place
+linetti-jersey3 linetti
+New Jersey
+2 100 1 apartment
+property entire place
+linetti-jersey4 linetti
+New Jersey
+2 100 1 apartment
+property entire place
+linetti-jersey1 linetti
+New Jersey
+2 100 1 apartment
+property treehouse
+linetti-tree linetti
+New Jersey
+2 90 1 apartment
+property entire place
+alice-lisbon alice
+Lisbon
+3 120 1 apartment
+property private room
+peralta-bronx peralta
+Bronx
+1 90
+0
+property private room
+linetti-jersey1 linetti
+New Jersey
+2 120
+0
+property entire place
+linetti-jersey3 linetti
+New Jersey
+2 100 1 apartment
+property private room
+linetti-jersey4 linetti
+New Jersey
+2 120
+0
+properties linetti
+property entire place
+raymond-house raymond
+New York
+4 320 2 apartment
+Register host raymond
+Raymond Holt
+usa
+rholt@hotmail.com
+property private room
+cheddar-room raymond
+St. Petersburg
+2 90
+2
+garden
+kitchen
+property entire place
+cozner-house raymond
+Lisbon
+4 120 3 house
+property entire place
+cozner-house linetti
+Lisbon
+4 120 3 house
+property private room
+cheddar-room raymond
+St. Petersburg
+2 90
+2
+garden
+kitchen
+properties peralta
+users
+exit

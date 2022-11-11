@@ -1,0 +1,47 @@
+User diaz was registered as guest.
+User linetti was registered as host.
+User peralta was registered as guest.
+User boyle was registered as host.
+User hitchcock was registered as guest.
+User scully was registered as guest.
+Property boyle-florida was added to host boyle.
+Property linetti-jersey was added to host linetti.
+User raymond was registered as host.
+Property raymond-house was added to host raymond.
+Property cheddar-room was added to host raymond.
+Booking raymond-house-1 was requested.
+Booking raymond-house-1 was rejected.
+Booking boyle-florida-1 was requested.
+Booking boyle-florida-2 was requested.
+Booking boyle-florida-3 was requested.
+Booking boyle-florida-4 was requested.
+Booking boyle-florida-5 was requested.
+Booking boyle-florida-5 was rejected.
+Booking boyle-florida-3 was rejected.
+Booking boyle-florida-1 was confirmed.
+Booking boyle-florida-4 was confirmed.
+All registered users:
+boyle: Charles Boyle from usa with email charles.boyle@gmail.com [host user has 1 properties]
+diaz: Rosa Diaz from usa with email diaz@gmail.com [guest user has 4 bookings]
+hitchcock: Michael Hitchcock from usa with email hitchcock@gmail.com [guest user has 0 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 1 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 2 bookings]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 2 properties]
+scully: Norm Scully from usa with email scully@gmail.com [guest user has 0 bookings]
+Booking cheddar-room-1 was requested.
+Booking cheddar-room-2 was requested.
+Booking cheddar-room-3 was requested.
+Booking cheddar-room-4 was requested.
+Booking cheddar-room-2 was rejected.
+Booking cheddar-room-4 was rejected.
+Booking cheddar-room-1 was confirmed.
+Booking cheddar-room-3 was rejected.
+All registered users:
+boyle: Charles Boyle from usa with email charles.boyle@gmail.com [host user has 1 properties]
+diaz: Rosa Diaz from usa with email diaz@gmail.com [guest user has 5 bookings]
+hitchcock: Michael Hitchcock from usa with email hitchcock@gmail.com [guest user has 1 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 1 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 3 bookings]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 2 properties]
+scully: Norm Scully from usa with email scully@gmail.com [guest user has 1 bookings]
+Bye!

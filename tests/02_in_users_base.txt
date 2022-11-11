@@ -1,0 +1,39 @@
+register guest peralta
+Jake Peralta
+usa
+jake@gmail.com
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+users
+Register guest hitchcock
+Michael Hitchcock
+usa
+hitchcock@gmail.com
+Register guest scully
+Norm Scully
+usa
+scully@gmail.com
+register host boyle
+Charles Boyle
+usa
+charles.boyle@gmail.com
+Register host pimento
+Adrian Pimento
+usa
+apimento@gmail.com
+Register host santiago
+Amy Santiago
+usa
+amy.santiago@gmail.com
+Register host raymond
+Raymond Holt
+usa
+rholt@hotmail.com
+Register guest diaz
+Rosa Diaz
+usa
+diaz@gmail.com
+users
+exit

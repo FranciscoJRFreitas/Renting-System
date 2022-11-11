@@ -1,0 +1,5 @@
+some silly command
+another silly command
+yet another one
+help
+exit

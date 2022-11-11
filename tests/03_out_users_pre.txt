@@ -1,0 +1,12 @@
+No users registered.
+User peralta was registered as guest.
+User peralta already exists.
+User linetti was registered as host.
+User linetti already exists.
+User hitchcock was registered as guest.
+Unknown user type
+All registered users:
+hitchcock: Michael Hitchcock from usa with email hitchcock@gmail.com [guest user has 0 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 0 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 0 bookings]
+Bye!

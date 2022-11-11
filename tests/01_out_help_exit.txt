@@ -1,0 +1,27 @@
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+register - adds a new user
+users - list all the registered users
+property - adds a new property
+properties - lists all properties of a host
+book - guest adds a new booking
+confirm - host confirms a booking
+reject - host rejects a booking
+rejections - lists all rejected bookings by a host
+pay - guest pays for a booking
+review - adds a review to a stay
+guest - list statistical information about a guest
+stays - list all stays of a property
+search - lists all properties in a location over a given capacity
+best - lists the best properties in a location
+globetrotter - lists the guest who has visited more locations
+help - shows the available commands
+exit - terminates the execution of the program
+Bye!

@@ -1,0 +1,87 @@
+Register guest diaz
+Rosa Diaz
+usa
+diaz@gmail.com
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+register guest peralta
+Jake Peralta
+usa
+jake@gmail.com
+register host boyle
+Charles Boyle
+usa
+charles.boyle@gmail.com
+Register guest hitchcock
+Michael Hitchcock
+usa
+hitchcock@gmail.com
+Register guest scully
+Norm Scully
+usa
+scully@gmail.com
+property private room
+boyle-florida boyle
+Miami
+2 160
+3
+swimming pool
+kitchen
+living room
+property entire place
+linetti-jersey linetti
+New Jersey
+4 230 2 apartment
+Register host raymond
+Raymond Holt
+usa
+rholt@hotmail.com
+property entire place
+raymond-house raymond
+New York
+4 320 2 apartment
+property private room
+cheddar-room raymond
+St. Petersburg
+2 90
+2
+garden
+kitchen
+book scully raymond-house 30-12-2021 03-01-2022 2
+book diaz raymond-house 30-09-2021 12-10-2021 2
+book hitchcock raymond-house 04-01-2021 12-01-2021 2
+pay raymond-house-3 hitchcock
+pay raymond-house-2 diaz
+confirm raymond-house-1 raymond
+pay raymond-house-1 scully
+review raymond-house-3 hitchcock
+Liked it.
+average
+review raymond-house-2 diaz
+Hated it.
+poor
+review raymond-house-1 scully
+Liked it.
+average
+book peralta boyle-florida 27-05-2021 30-05-2021 2
+confirm boyle-florida-1 boyle
+pay boyle-florida-1 peralta
+review boyle-florida-1 peralta
+Excellent location!
+good
+book diaz boyle-florida 01-11-2021 09-11-2021 2
+confirm boyle-florida-2 boyle
+pay boyle-florida-2 diaz
+review boyle-florida-2 diaz
+Excellent location!
+excellent
+book scully boyle-florida 04-01-2022 10-11-2022 2
+confirm boyle-florida-3 boyle
+pay boyle-florida-3 scully
+review boyle-florida-3 scully
+Good restaurants nearby!
+excellent
+users
+exit

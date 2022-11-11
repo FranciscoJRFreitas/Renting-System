@@ -1,0 +1,35 @@
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+register guest peralta
+Jake Peralta
+usa
+jake@gmail.com
+register host boyle
+Charles Boyle
+usa
+charles.boyle@gmail.com
+Register host santiago
+Amy Santiago
+usa
+amy.santiago@gmail.com
+rejections alice
+rejections peralta
+rejections santiago
+property private room
+boyle-florida boyle
+Miami
+2 160
+3
+swimming pool
+kitchen
+living room
+book peralta boyle-florida 24-07-2021 10-08-2021 1
+rejections boyle
+book peralta boyle-florida 09-08-2021 11-08-2021 1
+book peralta boyle-florida 18-07-2021 25-07-2021 2
+book peralta boyle-florida 30-07-2021 02-08-2021 2
+confirm boyle-florida-1 boyle
+rejections boyle
+exit

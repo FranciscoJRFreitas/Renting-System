@@ -1,0 +1,107 @@
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+register host boyle
+Charles Boyle
+usa
+charles.boyle@gmail.com
+Register host pimento
+Adrian Pimento
+usa
+apimento@gmail.com
+Register host santiago
+Amy Santiago
+usa
+amy.santiago@gmail.com
+Register host raymond
+Raymond Holt
+usa
+rholt@hotmail.com
+property entire place
+boyle-miami boyle
+Miami
+9 320 3 apartment
+property entire place
+linetti-miami linetti
+Miami
+9 350 4 apartment
+property entire place
+santiago-miami santiago
+Miami
+3 245 3 apartment
+property entire place
+linetti-miami linetti
+Miami
+3 245 3 apartment
+property entire place
+pimento-miami pimento
+Miami
+2 270 3 apartment
+property entire place
+raymond-new-york raymond
+New York
+4 320 2 apartment
+property entire place
+linetti-new-york linetti
+New York
+5 229 3 apartment
+property entire place
+santiago-new-york-1 santiago
+New York
+3 245 3 apartment
+property entire place
+santiago-new-york-2 santiago
+New York
+3 245 3 apartment
+property entire place
+pimento-new-york pimento
+New York
+6 340 3 apartment
+property entire place
+santiago-new-york-3 santiago
+New York
+5 229 3 apartment
+property entire place
+raymond-lisbon-c raymond
+Lisbon
+3 125 2 apartment
+property entire place
+raymond-lisbon-d raymond
+Lisbon
+2 125 2 apartment
+property entire place
+linetti-lisbon linetti
+Lisbon
+5 145 3 apartment
+property entire place
+santiago-lisbon-b santiago
+Lisbon
+15 350 10 apartment
+property entire place
+santiago-lisbon-c santiago
+Lisbon
+15 350 10 apartment
+property entire place
+santiago-lisbon-a santiago
+Lisbon
+14 229 3 apartment
+property entire place
+pimento-lisboa pimento
+Lisbon
+8 320 4 apartment
+search Paris
+3
+search New York
+4
+search New York
+7
+search Lisbon
+15
+search Lisbon
+3
+search Miami
+6
+search Miami
+2
+exit

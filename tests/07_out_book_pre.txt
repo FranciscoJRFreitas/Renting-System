@@ -1,0 +1,21 @@
+User diaz was registered as guest.
+User linetti was registered as host.
+User peralta was registered as guest.
+User boyle was registered as host.
+Property boyle-florida was added to host boyle.
+Property linetti-jersey was added to host linetti.
+User raymond was registered as host.
+Property raymond-house was added to host raymond.
+User alice does not exist.
+User linetti is not a guest user.
+Property boyle-paris does not exist.
+Property boyle-florida has a capacity limit of 2 guests.
+Booking linetti-jersey-1 was confirmed.
+Invalid booking dates.
+All registered users:
+boyle: Charles Boyle from usa with email charles.boyle@gmail.com [host user has 1 properties]
+diaz: Rosa Diaz from usa with email diaz@gmail.com [guest user has 1 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 1 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 0 bookings]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 1 properties]
+Bye!

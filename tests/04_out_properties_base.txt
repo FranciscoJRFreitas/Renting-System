@@ -1,0 +1,42 @@
+User linetti was registered as host.
+Property linetti-jersey was added to host linetti.
+User boyle was registered as host.
+User pimento was registered as host.
+Property pimento-arlington was added to host pimento.
+Property boyle-florida was added to host boyle.
+User santiago was registered as host.
+Host santiago has no registered properties.
+Properties of host boyle:
+boyle-florida: Miami 2 160 [private room 0 0]
+Properties of host linetti:
+linetti-jersey: New Jersey 4 230 [entire place 0 0]
+User raymond was registered as host.
+User diaz was registered as guest.
+Property raymond-house was added to host raymond.
+Property cheddar-room was added to host raymond.
+Property cozner-house was added to host raymond.
+All registered users:
+boyle: Charles Boyle from usa with email charles.boyle@gmail.com [host user has 1 properties]
+diaz: Rosa Diaz from usa with email diaz@gmail.com [guest user has 0 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 1 properties]
+pimento: Adrian Pimento from usa with email apimento@gmail.com [host user has 1 properties]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 3 properties]
+santiago: Amy Santiago from usa with email amy.santiago@gmail.com [host user has 0 properties]
+Properties of host raymond:
+raymond-house: New York 4 320 [entire place 0 0]
+cheddar-room: St. Petersburg 2 90 [private room 0 0]
+cozner-house: Lisbon 4 120 [entire place 0 0]
+Properties of host pimento:
+pimento-arlington: Arlington 2 100 [private room 0 0]
+Property linetti-algarve was added to host linetti.
+Properties of host linetti:
+linetti-jersey: New Jersey 4 230 [entire place 0 0]
+linetti-algarve: Albufeira 4 130 [entire place 0 0]
+All registered users:
+boyle: Charles Boyle from usa with email charles.boyle@gmail.com [host user has 1 properties]
+diaz: Rosa Diaz from usa with email diaz@gmail.com [guest user has 0 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 2 properties]
+pimento: Adrian Pimento from usa with email apimento@gmail.com [host user has 1 properties]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 3 properties]
+santiago: Amy Santiago from usa with email amy.santiago@gmail.com [host user has 0 properties]
+Bye!

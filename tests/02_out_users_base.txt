@@ -1,0 +1,23 @@
+User peralta was registered as guest.
+User linetti was registered as host.
+All registered users:
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 0 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 0 bookings]
+User hitchcock was registered as guest.
+User scully was registered as guest.
+User boyle was registered as host.
+User pimento was registered as host.
+User santiago was registered as host.
+User raymond was registered as host.
+User diaz was registered as guest.
+All registered users:
+boyle: Charles Boyle from usa with email charles.boyle@gmail.com [host user has 0 properties]
+diaz: Rosa Diaz from usa with email diaz@gmail.com [guest user has 0 bookings]
+hitchcock: Michael Hitchcock from usa with email hitchcock@gmail.com [guest user has 0 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 0 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 0 bookings]
+pimento: Adrian Pimento from usa with email apimento@gmail.com [host user has 0 properties]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 0 properties]
+santiago: Amy Santiago from usa with email amy.santiago@gmail.com [host user has 0 properties]
+scully: Norm Scully from usa with email scully@gmail.com [guest user has 0 bookings]
+Bye!

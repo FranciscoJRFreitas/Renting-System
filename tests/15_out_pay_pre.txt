@@ -1,0 +1,24 @@
+User diaz was registered as guest.
+User linetti was registered as host.
+User peralta was registered as guest.
+User boyle was registered as host.
+User hitchcock was registered as guest.
+User scully was registered as guest.
+Property boyle-florida was added to host boyle.
+Property linetti-jersey was added to host linetti.
+User raymond was registered as host.
+Property raymond-house was added to host raymond.
+Property cheddar-room was added to host raymond.
+Booking raymond-house-1 was requested.
+Booking raymond-house-1 was confirmed.
+User alice does not exist.
+User linetti is not a guest user.
+Booking raymond-house-2 does not exist.
+Booking raymond-house-1 was paid: 1280.00
+Cannot pay booking raymond-house-1 that is in state paid.
+Booking boyle-florida-1 was requested.
+Cannot pay booking boyle-florida-1 that is in state requested.
+Booking boyle-florida-1 was confirmed.
+Booking boyle-florida-1 was paid: 1440.00
+Invalid booking dates.
+Bye!

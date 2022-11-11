@@ -1,0 +1,23 @@
+User diaz was registered as guest.
+User linetti was registered as host.
+User peralta was registered as guest.
+User boyle was registered as host.
+User hitchcock was registered as guest.
+User scully was registered as guest.
+Property boyle-florida was added to host boyle.
+Property linetti-jersey was added to host linetti.
+User raymond was registered as host.
+Property raymond-house was added to host raymond.
+Property cheddar-room was added to host raymond.
+Booking raymond-house-1 was requested.
+Booking raymond-house-2 was confirmed.
+Booking raymond-house-3 was confirmed.
+Booking raymond-house-3 was paid: 2560.00
+User alice does not exist.
+User linetti is not a guest user.
+Booking raymond-house-10 does not exist.
+User scully is not the guest of booking raymond-house-3.
+Review for raymond-house-3 was registered.
+Cannot review booking raymond-house-2 that is in state confirmed.
+Booking raymond-house-3 was already reviewed.
+Bye!

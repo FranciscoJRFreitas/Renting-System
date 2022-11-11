@@ -1,0 +1,50 @@
+User diaz was registered as guest.
+User linetti was registered as host.
+User peralta was registered as guest.
+User boyle was registered as host.
+User hitchcock was registered as guest.
+User scully was registered as guest.
+Property boyle-florida was added to host boyle.
+Property linetti-jersey was added to host linetti.
+User raymond was registered as host.
+Property raymond-house was added to host raymond.
+Property cheddar-room was added to host raymond.
+Booking raymond-house-1 was requested.
+Host raymond has not rejected any booking.
+Booking cheddar-room-1 was requested.
+Booking cheddar-room-2 was requested.
+Booking cheddar-room-3 was requested.
+Booking cheddar-room-4 was requested.
+Booking cheddar-room-5 was requested.
+Booking cheddar-room-4 was confirmed.
+Booking cheddar-room-3 was rejected.
+Booking cheddar-room-5 was rejected.
+Booking cheddar-room-1 was rejected.
+Booking raymond-house-1 was rejected.
+Bookings rejected by host raymond:
+raymond-house-1: raymond-house; diaz; usa; 2
+cheddar-room-1: cheddar-room; diaz; usa; 1
+cheddar-room-3: cheddar-room; diaz; usa; 2
+cheddar-room-5: cheddar-room; peralta; usa; 2
+Booking linetti-jersey-1 was requested.
+Booking raymond-house-2 was confirmed.
+Booking linetti-jersey-2 was confirmed.
+Booking linetti-jersey-3 was requested.
+Booking linetti-jersey-4 was requested.
+Booking linetti-jersey-4 was confirmed.
+Booking linetti-jersey-3 was rejected.
+Bookings rejected by host linetti:
+linetti-jersey-3: linetti-jersey; diaz; usa; 2
+Booking boyle-florida-1 was requested.
+Booking boyle-florida-2 was requested.
+Booking boyle-florida-3 was requested.
+Booking boyle-florida-4 was requested.
+Booking boyle-florida-1 was confirmed.
+Booking boyle-florida-2 was rejected.
+Booking boyle-florida-3 was rejected.
+Booking boyle-florida-4 was rejected.
+Bookings rejected by host boyle:
+boyle-florida-2: boyle-florida; scully; usa; 1
+boyle-florida-3: boyle-florida; diaz; usa; 2
+boyle-florida-4: boyle-florida; hitchcock; usa; 2
+Bye!

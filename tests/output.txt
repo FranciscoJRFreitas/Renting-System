@@ -1,0 +1,49 @@
+User linetti was registered as host.
+User boyle was registered as host.
+User pimento was registered as host.
+User santiago was registered as host.
+User raymond was registered as host.
+Property boyle-miami was added to host boyle.
+Property linetti-miami was added to host linetti.
+Property santiago-miami was added to host santiago.
+Property linetti-miami already exists.
+Property pimento-miami was added to host pimento.
+Property raymond-new-york was added to host raymond.
+Property linetti-new-york was added to host linetti.
+Property santiago-new-york-1 was added to host santiago.
+Property santiago-new-york-2 was added to host santiago.
+Property pimento-new-york was added to host pimento.
+Property santiago-new-york-3 was added to host santiago.
+Property raymond-lisbon-c was added to host raymond.
+Property raymond-lisbon-d was added to host raymond.
+Property linetti-lisbon was added to host linetti.
+Property santiago-lisbon-b was added to host santiago.
+Property santiago-lisbon-c was added to host santiago.
+Property santiago-lisbon-a was added to host santiago.
+Property pimento-lisboa was added to host pimento.
+No property was found in Paris.
+Properties in New York:
+linetti-new-york: 0,0; 229,00; 5; entire place
+santiago-new-york-3: 0,0; 229,00; 5; entire place
+raymond-new-york: 0,0; 320,00; 4; entire place
+pimento-new-york: 0,0; 340,00; 6; entire place
+No property was found in New York.
+Properties in Lisbon:
+santiago-lisbon-b: 0,0; 350,00; 15; entire place
+santiago-lisbon-c: 0,0; 350,00; 15; entire place
+Properties in Lisbon:
+raymond-lisbon-c: 0,0; 125,00; 3; entire place
+linetti-lisbon: 0,0; 145,00; 5; entire place
+santiago-lisbon-a: 0,0; 229,00; 14; entire place
+pimento-lisboa: 0,0; 320,00; 8; entire place
+santiago-lisbon-b: 0,0; 350,00; 15; entire place
+santiago-lisbon-c: 0,0; 350,00; 15; entire place
+Properties in Miami:
+boyle-miami: 0,0; 320,00; 9; entire place
+linetti-miami: 0,0; 350,00; 9; entire place
+Properties in Miami:
+santiago-miami: 0,0; 245,00; 3; entire place
+pimento-miami: 0,0; 270,00; 2; entire place
+boyle-miami: 0,0; 320,00; 9; entire place
+linetti-miami: 0,0; 350,00; 9; entire place
+Bye!

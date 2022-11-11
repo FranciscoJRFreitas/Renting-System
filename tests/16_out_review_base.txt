@@ -1,0 +1,42 @@
+User diaz was registered as guest.
+User linetti was registered as host.
+User peralta was registered as guest.
+User boyle was registered as host.
+User hitchcock was registered as guest.
+User scully was registered as guest.
+Property boyle-florida was added to host boyle.
+Property linetti-jersey was added to host linetti.
+User raymond was registered as host.
+Property raymond-house was added to host raymond.
+Property cheddar-room was added to host raymond.
+Booking raymond-house-1 was requested.
+Booking raymond-house-2 was confirmed.
+Booking raymond-house-3 was confirmed.
+Booking raymond-house-3 was paid: 2560.00
+Booking raymond-house-2 was paid: 3840.00
+Booking raymond-house-1 was confirmed.
+Booking raymond-house-1 was paid: 1280.00
+Review for raymond-house-3 was registered.
+Review for raymond-house-2 was registered.
+Review for raymond-house-1 was registered.
+Booking boyle-florida-1 was requested.
+Booking boyle-florida-1 was confirmed.
+Booking boyle-florida-1 was paid: 480.00
+Review for boyle-florida-1 was registered.
+Booking boyle-florida-2 was requested.
+Booking boyle-florida-2 was confirmed.
+Booking boyle-florida-2 was paid: 1280.00
+Review for boyle-florida-2 was registered.
+Booking boyle-florida-3 was requested.
+Booking boyle-florida-3 was confirmed.
+Booking boyle-florida-3 was paid: 49600.00
+Review for boyle-florida-3 was registered.
+All registered users:
+boyle: Charles Boyle from usa with email charles.boyle@gmail.com [host user has 1 properties]
+diaz: Rosa Diaz from usa with email diaz@gmail.com [guest user has 2 bookings]
+hitchcock: Michael Hitchcock from usa with email hitchcock@gmail.com [guest user has 1 bookings]
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 1 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 1 bookings]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 2 properties]
+scully: Norm Scully from usa with email scully@gmail.com [guest user has 2 bookings]
+Bye!

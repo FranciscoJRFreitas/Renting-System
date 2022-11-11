@@ -1,0 +1,129 @@
+No property was found in Paris.
+User host1 was registered as host.
+User host2 was registered as host.
+User host3 was registered as host.
+User host4 was registered as host.
+User host5 was registered as host.
+User host10 was registered as host.
+Property host10-lisboa-ep was added to host host10.
+Property host5-lisboa-ep was added to host host5.
+Property host5-lisboa-pr was added to host host5.
+Property host4-lisboa-ep was added to host host4.
+Property host4-lisboa-pr was added to host host4.
+Property host3-lisboa-ep was added to host host3.
+Property host3-lisboa-pr was added to host host3.
+Property host2-lisboa-ep was added to host host2.
+Property host2-lisboa-pr was added to host host2.
+Property host1-lisboa-ep was added to host host1.
+Property host1-lisboa-pr was added to host host1.
+Property host1-caparica-ep was added to host host1.
+Property host1-caparica-pr was added to host host1.
+Property host2-caparica-ep was added to host host2.
+User guest1 was registered as guest.
+User guest2 was registered as guest.
+User guest3 was registered as guest.
+User guest4 was registered as guest.
+User guest5 was registered as guest.
+Booking host1-lisboa-ep-1 was confirmed.
+Booking host1-lisboa-ep-1 was paid: 720.00
+Review for host1-lisboa-ep-1 was registered.
+Booking host2-lisboa-ep-1 was confirmed.
+Booking host2-lisboa-ep-1 was paid: 720.00
+Review for host2-lisboa-ep-1 was registered.
+Booking host2-caparica-ep-1 was confirmed.
+Booking host2-caparica-ep-1 was paid: 720.00
+Review for host2-caparica-ep-1 was registered.
+Booking host1-caparica-ep-1 was confirmed.
+Booking host1-caparica-ep-1 was paid: 810.00
+Review for host1-caparica-ep-1 was registered.
+Booking host1-caparica-pr-1 was requested.
+Booking host1-caparica-pr-1 was confirmed.
+Booking host1-caparica-pr-1 was paid: 100.00
+Review for host1-caparica-pr-1 was registered.
+Booking host1-caparica-pr-2 was requested.
+Booking host1-caparica-pr-2 was confirmed.
+Booking host1-caparica-pr-2 was paid: 50.00
+Review for host1-caparica-pr-2 was registered.
+Booking host3-lisboa-ep-1 was confirmed.
+Booking host3-lisboa-ep-1 was paid: 720.00
+Review for host3-lisboa-ep-1 was registered.
+Booking host4-lisboa-ep-1 was confirmed.
+Booking host4-lisboa-ep-1 was paid: 720.00
+Review for host4-lisboa-ep-1 was registered.
+Booking host5-lisboa-ep-1 was confirmed.
+Booking host5-lisboa-ep-1 was paid: 720.00
+Review for host5-lisboa-ep-1 was registered.
+Booking host1-lisboa-ep-2 was confirmed.
+Booking host1-lisboa-ep-2 was paid: 810.00
+Review for host1-lisboa-ep-2 was registered.
+The best properties in Lisboa:
+host1-lisboa-ep: 4.5; 4; 90.00; entire place
+host2-lisboa-ep: 4.0; 6; 90.00; entire place
+host3-lisboa-ep: 3.0; 2; 90.00; entire place
+host4-lisboa-ep: 2.0; 6; 90.00; entire place
+host5-lisboa-ep: 1.0; 3; 90.00; entire place
+host10-lisboa-ep: 0.0; 6; 90.00; entire place
+host1-lisboa-pr: 0.0; 3; 50.00; private room
+host5-lisboa-pr: 0.0; 3; 50.00; private room
+host3-lisboa-pr: 0.0; 2; 50.00; private room
+host2-lisboa-pr: 0.0; 1; 50.00; private room
+host4-lisboa-pr: 0.0; 1; 50.00; private room
+Booking host1-lisboa-ep-3 was confirmed.
+Booking host1-lisboa-ep-3 was paid: 810.00
+Review for host1-lisboa-ep-3 was registered.
+The best properties in Lisboa:
+host2-lisboa-ep: 4.0; 6; 90.00; entire place
+host1-lisboa-ep: 4.0; 4; 90.00; entire place
+host3-lisboa-ep: 3.0; 2; 90.00; entire place
+host4-lisboa-ep: 2.0; 6; 90.00; entire place
+host5-lisboa-ep: 1.0; 3; 90.00; entire place
+host10-lisboa-ep: 0.0; 6; 90.00; entire place
+host1-lisboa-pr: 0.0; 3; 50.00; private room
+host5-lisboa-pr: 0.0; 3; 50.00; private room
+host3-lisboa-pr: 0.0; 2; 50.00; private room
+host2-lisboa-pr: 0.0; 1; 50.00; private room
+host4-lisboa-pr: 0.0; 1; 50.00; private room
+Booking host10-lisboa-ep-1 was confirmed.
+Booking host10-lisboa-ep-1 was paid: 810.00
+Review for host10-lisboa-ep-1 was registered.
+The best properties in Lisboa:
+host10-lisboa-ep: 4.0; 6; 90.00; entire place
+host2-lisboa-ep: 4.0; 6; 90.00; entire place
+host1-lisboa-ep: 4.0; 4; 90.00; entire place
+host3-lisboa-ep: 3.0; 2; 90.00; entire place
+host4-lisboa-ep: 2.0; 6; 90.00; entire place
+host5-lisboa-ep: 1.0; 3; 90.00; entire place
+host1-lisboa-pr: 0.0; 3; 50.00; private room
+host5-lisboa-pr: 0.0; 3; 50.00; private room
+host3-lisboa-pr: 0.0; 2; 50.00; private room
+host2-lisboa-pr: 0.0; 1; 50.00; private room
+host4-lisboa-pr: 0.0; 1; 50.00; private room
+Booking host5-lisboa-pr-1 was requested.
+Booking host5-lisboa-pr-1 was confirmed.
+Booking host5-lisboa-pr-1 was paid: 400.00
+Review for host5-lisboa-pr-1 was registered.
+Booking host5-lisboa-pr-2 was requested.
+Booking host5-lisboa-pr-2 was confirmed.
+Booking host5-lisboa-pr-2 was paid: 450.00
+Review for host5-lisboa-pr-2 was registered.
+Booking host5-lisboa-pr-3 was requested.
+Booking host5-lisboa-pr-3 was confirmed.
+Booking host5-lisboa-pr-3 was paid: 400.00
+Review for host5-lisboa-pr-3 was registered.
+The best properties in Lisboa:
+host10-lisboa-ep: 4.0; 6; 90.00; entire place
+host2-lisboa-ep: 4.0; 6; 90.00; entire place
+host1-lisboa-ep: 4.0; 4; 90.00; entire place
+host5-lisboa-pr: 4.0; 3; 50.00; private room
+host3-lisboa-ep: 3.0; 2; 90.00; entire place
+host4-lisboa-ep: 2.0; 6; 90.00; entire place
+host5-lisboa-ep: 1.0; 3; 90.00; entire place
+host1-lisboa-pr: 0.0; 3; 50.00; private room
+host3-lisboa-pr: 0.0; 2; 50.00; private room
+host2-lisboa-pr: 0.0; 1; 50.00; private room
+host4-lisboa-pr: 0.0; 1; 50.00; private room
+The best properties in Caparica:
+host1-caparica-ep: 4.0; 4; 90.00; entire place
+host2-caparica-ep: 3.0; 5; 90.00; entire place
+host1-caparica-pr: 3.0; 3; 50.00; private room
+Bye!

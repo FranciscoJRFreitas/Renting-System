@@ -1,0 +1,193 @@
+best Paris
+Register host host1
+Host1
+pt
+host1@gmail.com
+Register host host2
+Host2
+pt
+host2@gmail.com
+Register host host3
+Host3
+pt
+host3@gmail.com
+Register host host4
+Host4
+pt
+host4@gmail.com
+Register host host5
+Host5
+pt
+host5@gmail.com
+Register host host10
+Host10
+pt
+host10@gmail.com
+property entire place
+host10-lisboa-ep host10
+Lisboa
+6 90 2 apartment
+property entire place
+host5-lisboa-ep host5
+Lisboa
+3 90 2 apartment
+property private room
+host5-lisboa-pr host5
+Lisboa
+3 50
+0
+property entire place
+host4-lisboa-ep host4
+Lisboa
+6 90 2 apartment
+property private room
+host4-lisboa-pr host4
+Lisboa
+1 50
+0
+property entire place
+host3-lisboa-ep host3
+Lisboa
+2 90 2 apartment
+property private room
+host3-lisboa-pr host3
+Lisboa
+2 50
+0
+property entire place
+host2-lisboa-ep host2
+Lisboa
+6 90 2 apartment
+property private room
+host2-lisboa-pr host2
+Lisboa
+1 50
+0
+property entire place
+host1-lisboa-ep host1
+Lisboa
+4 90 2 apartment
+property private room
+host1-lisboa-pr host1
+Lisboa
+3 50
+0
+property entire place
+host1-caparica-ep host1
+Caparica
+4 90 2 apartment
+property private room
+host1-caparica-pr host1
+Caparica
+3 50
+0
+property entire place
+host2-caparica-ep host2
+Caparica
+5 90 3 house
+register guest guest1
+Guest1
+pt
+guest1@gmail.com
+register guest guest2
+Guest2
+pt
+guest2@gmail.com
+register guest guest3
+Guest3
+pt
+guest3@gmail.com
+register guest guest4
+Guest4
+pt
+guest4@gmail.com
+register guest guest5
+Guest5
+pt
+guest5@gmail.com
+book guest1 host1-lisboa-ep 01-06-2021 09-06-2021 2
+pay host1-lisboa-ep-1 guest1
+review host1-lisboa-ep-1 guest1
+Was excellent.
+excellent
+book guest2 host2-lisboa-ep 01-06-2021 09-06-2021 2
+pay host2-lisboa-ep-1 guest2
+review host2-lisboa-ep-1 guest2
+Was good.
+good
+book guest4 host2-caparica-ep 01-10-2021 09-10-2021 2
+pay host2-caparica-ep-1 guest4
+review host2-caparica-ep-1 guest4
+Was average.
+average
+book guest4 host1-caparica-ep 10-10-2021 19-10-2021 2
+pay host1-caparica-ep-1 guest4
+review host1-caparica-ep-1 guest4
+Was good.
+good
+book guest4 host1-caparica-pr 22-10-2021 24-10-2021 2
+confirm host1-caparica-pr-1 host1
+pay host1-caparica-pr-1 guest4
+review host1-caparica-pr-1 guest4
+Was good.
+good
+book guest3 host1-caparica-pr 27-10-2021 28-10-2021 2
+confirm host1-caparica-pr-2 host1
+pay host1-caparica-pr-2 guest3
+review host1-caparica-pr-2 guest3
+Was poor.
+poor
+book guest3 host3-lisboa-ep 01-11-2021 09-11-2021 2
+pay host3-lisboa-ep-1 guest3
+review host3-lisboa-ep-1 guest3
+Was average.
+average
+book guest4 host4-lisboa-ep 01-11-2021 09-11-2021 2
+pay host4-lisboa-ep-1 guest4
+review host4-lisboa-ep-1 guest4
+Was poor.
+poor
+book guest5 host5-lisboa-ep 01-11-2021 09-11-2021 2
+pay host5-lisboa-ep-1 guest5
+review host5-lisboa-ep-1 guest5
+Was terrible.
+terrible
+book guest5 host1-lisboa-ep 10-11-2021 19-11-2021 2
+pay host1-lisboa-ep-2 guest5
+review host1-lisboa-ep-2 guest5
+Was good.
+good
+best Lisboa
+book guest5 host1-lisboa-ep 20-11-2021 29-11-2021 2
+pay host1-lisboa-ep-3 guest5
+review host1-lisboa-ep-3 guest5
+Was average.
+average
+best Lisboa
+book guest4 host10-lisboa-ep 10-11-2021 19-11-2021 2
+pay host10-lisboa-ep-1 guest4
+review host10-lisboa-ep-1 guest4
+Was good.
+good
+best Lisboa
+book guest1 host5-lisboa-pr 01-11-2021 09-11-2021 2
+confirm host5-lisboa-pr-1 host5
+pay host5-lisboa-pr-1 guest1
+review host5-lisboa-pr-1 guest1
+Was average.
+average
+book guest2 host5-lisboa-pr 10-11-2021 19-11-2021 2
+confirm host5-lisboa-pr-2 host5
+pay host5-lisboa-pr-2 guest2
+review host5-lisboa-pr-2 guest2
+Was good.
+good
+book guest3 host5-lisboa-pr 01-12-2021 09-12-2021 2
+confirm host5-lisboa-pr-3 host5
+pay host5-lisboa-pr-3 guest3
+review host5-lisboa-pr-3 guest3
+Was excellent.
+excellent
+best Lisboa
+best Caparica
+exit

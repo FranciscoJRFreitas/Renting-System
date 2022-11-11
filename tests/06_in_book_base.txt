@@ -1,0 +1,47 @@
+Register guest diaz
+Rosa Diaz
+usa
+diaz@gmail.com
+Register host linetti
+Gina Linetti
+usa
+glinetti@gmail.com
+register guest peralta
+Jake Peralta
+usa
+jake@gmail.com
+register host boyle
+Charles Boyle
+usa
+charles.boyle@gmail.com
+property private room
+boyle-florida boyle
+Miami
+2 160
+3
+swimming pool
+kitchen
+living room
+property entire place
+linetti-jersey linetti
+New Jersey
+4 230 2 apartment
+Register host raymond
+Raymond Holt
+usa
+rholt@hotmail.com
+property entire place
+raymond-house raymond
+New York
+4 320 2 apartment
+book peralta boyle-florida 27-05-2021 30-05-2021 2
+book diaz boyle-florida 01-06-2021 09-06-2021 2
+book peralta boyle-florida 01-07-2021 03-07-2021 2
+book diaz boyle-florida 02-07-2021 10-07-2021 2
+book diaz linetti-jersey 27-05-2021 30-05-2021 4
+book peralta raymond-house 01-06-2021 09-06-2021 2
+book diaz linetti-jersey 01-06-2021 09-06-2021 2
+book diaz linetti-jersey 01-07-2021 03-07-2021 2
+book peralta linetti-jersey 02-07-2021 10-07-2021 2
+users
+exit

@@ -1,0 +1,31 @@
+User alice does not exist.
+User linetti was registered as host.
+User peralta was registered as guest.
+Property linetti-jersey1 was added to host linetti.
+Property linetti-jersey2 was added to host linetti.
+Property linetti-jersey3 was added to host linetti.
+Property linetti-jersey4 was added to host linetti.
+Property linetti-jersey1 already exists.
+Unknown rental property type.
+User alice does not exist.
+User peralta is not a host user.
+Property linetti-jersey1 already exists.
+Property linetti-jersey3 already exists.
+Property linetti-jersey4 already exists.
+Properties of host linetti:
+linetti-jersey1: New Jersey 2 100 [entire place 0 0]
+linetti-jersey2: New Jersey 2 100 [entire place 0 0]
+linetti-jersey3: New Jersey 2 100 [entire place 0 0]
+linetti-jersey4: New Jersey 2 100 [entire place 0 0]
+User raymond does not exist.
+User raymond was registered as host.
+Property cheddar-room was added to host raymond.
+Property cozner-house was added to host raymond.
+Property cozner-house already exists.
+Property cheddar-room already exists.
+User peralta is not a host user.
+All registered users:
+linetti: Gina Linetti from usa with email glinetti@gmail.com [host user has 4 properties]
+peralta: Jake Peralta from usa with email jake@gmail.com [guest user has 0 bookings]
+raymond: Raymond Holt from usa with email rholt@hotmail.com [host user has 2 properties]
+Bye!

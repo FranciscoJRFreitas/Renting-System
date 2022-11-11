@@ -1,0 +1,22 @@
+User linetti was registered as host.
+User peralta was registered as guest.
+User boyle was registered as host.
+User santiago was registered as host.
+User alice does not exist.
+User peralta is not a host user.
+User santiago has no bookings.
+Property boyle-florida was added to host boyle.
+Booking boyle-florida-1 was requested.
+Host boyle has not rejected any booking.
+Booking boyle-florida-2 was requested.
+Booking boyle-florida-3 was requested.
+Booking boyle-florida-4 was requested.
+Booking boyle-florida-1 was confirmed.
+Booking boyle-florida-2 was rejected.
+Booking boyle-florida-3 was rejected.
+Booking boyle-florida-4 was rejected.
+Bookings rejected by host boyle:
+boyle-florida-2: boyle-florida; peralta; usa; 1
+boyle-florida-3: boyle-florida; peralta; usa; 2
+boyle-florida-4: boyle-florida; peralta; usa; 2
+Bye!
